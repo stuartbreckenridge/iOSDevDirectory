@@ -2420,7 +2420,7 @@
           {
             "title": "Kin + Carta Create Medium (iOS)",
             "author": "Kin + Carta Create Engineers",
-            "site_url": "https://medium.com/kinandcartacreated/tagged/ios",
+            "site_url": "https://medium.com/kinandcartacreated/all?topic=ios",
             "feed_url": "https://medium.com/feed/kinandcartacreated/tagged/ios"
           },
           {
@@ -3382,7 +3382,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/feed/",
+            "feed_url": "https://otavio.cc/posts_feed",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -4099,7 +4099,7 @@
           {
             "title": "Source Diving",
             "author": "Cookpad",
-            "site_url": "https://sourcediving.com/tagged/ios",
+            "site_url": "https://sourcediving.com/all?topic=ios",
             "feed_url": "https://sourcediving.com/feed/tagged/ios",
             "twitter_url": "https://twitter.com/cookpad_dev"
           },
@@ -4266,7 +4266,7 @@
             "title": "Swift and Pizza",
             "author": "Daniele Bogo",
             "site_url": "https://swiftandpizza.com/",
-            "feed_url": "https://swiftandpizza.com/feed/",
+            "feed_url": "https://swiftandpizza.wpcomstaging.com/feed/",
             "twitter_url": "https://twitter.com/theillbo"
           },
           {
@@ -5396,7 +5396,7 @@
           {
             "title": "The Craft",
             "author": "Faire",
-            "site_url": "https://craft.faire.com/tagged/engineering",
+            "site_url": "https://craft.faire.com/all?topic=engineering",
             "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
           },
           {
@@ -5644,7 +5644,7 @@
           {
             "title": "Over Engineering blog",
             "author": "Over iOS Engineering team",
-            "site_url": "https://medium.com/over-engineering/tagged/ios",
+            "site_url": "https://medium.com/over-engineering/all?topic=ios",
             "feed_url": "https://medium.com/feed/over-engineering/tagged/ios",
             "twitter_url": "https://twitter.com/EngineeringOver"
           },
@@ -5692,7 +5692,7 @@
           {
             "title": "Rosberry Blog",
             "author": "Rosberry Team",
-            "site_url": "https://medium.com/rosberryapps/tagged/ios",
+            "site_url": "https://medium.com/rosberryapps/all?topic=ios",
             "feed_url": "https://medium.com/feed/rosberryapps/tagged/ios",
             "twitter_url": "https://twitter.com/RosberryApps"
           },
